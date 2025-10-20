@@ -1,0 +1,43 @@
+{
+  "name": "jeffersonsimaogoncalves/cakephp-permission",
+  "description": "The library provides a flexible way to add role-based access control management to CakePHP 3.x",
+  "keywords": [
+    "cakephp",
+    "permission",
+    "RBAC",
+    "role based",
+    "security",
+    "manage permission",
+    "manage roles",
+    "manage users"
+  ],
+  "type": "cakephp-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tao",
+      "email": "taosikai@yeah.net"
+    },
+    {
+      "name": "Jefferson Simão Gonçalves",
+      "homepage": "https://github.com/jeffersonsimaogoncalves"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "cakephp/cakephp": "^3.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.0|^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "JeffersonSimaoGoncalves\\CakePermission\\": "./src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "JeffersonSimaoGoncalves\\CakePermission\\Tests\\": "./tests"
+    }
+  }
+}
