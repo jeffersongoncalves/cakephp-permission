@@ -1,10 +1,8 @@
+![CakePHP Permission](banners/cakephp-permission.png)
+
 # Permission Management For CakePHP 3.x
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
-[![Build Status](https://img.shields.io/travis/slince/cakephp-permission/master.svg?style=flat-square)](https://travis-ci.org/slince/cakephp-permission)
-[![Coverage Status](https://img.shields.io/codecov/c/github/slince/cakephp-permission.svg?style=flat-square)](https://codecov.io/github/slince/cakephp-permission)
-[![Latest Stable Version](https://img.shields.io/packagist/v/slince/cakephp-permission.svg?style=flat-square&label=stable)](https://packagist.org/packages/slince/cakephp-permission)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/slince/cakephp-permission.svg?style=flat-square)](https://scrutinizer-ci.com/g/slince/cakephp-permission/?branch=master)
 
 The library provides a flexible way to add role-based access control management to CakePHP 3.x
 
